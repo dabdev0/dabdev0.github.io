@@ -28,7 +28,7 @@ url: "https://dabdev0.github.io"
 github:
   username: dabdev0 # change to your GitHub username
 
-instagram:
+twitter:
   # username: twitter_username # change to your Twitter username
 
 social:
@@ -105,7 +105,7 @@ avatar: '/assets/img/profile/howl_square.png'
 social_preview_image: # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
-toc:
+toc: true
 
 comments:
   # Global switch for the post-comment system. Keeping it empty means disabled.
