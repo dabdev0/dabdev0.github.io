@@ -1,5 +1,5 @@
 ---
-title: " GitHub Blog 만들기"
+title: "GitHub Blog 만들기"
 date: 2024-11-04 21:00:00 +0900
 categories: [Programing, Blog]
 tags: [blog, chirpy, github, jekyll, ruby]
@@ -11,7 +11,7 @@ image:
 > Jekyll의 Chirpy Theme를 활용하여 Github Blog를 개설하는 방법을 소개합니다.
 {: .prompt-info }
 
-[Jekyll]은 정적 사이트 생성기입니다. 마크업 언어로 작성된 텍스트를 레이아웃을 사용해 정적 웹사이트를 생성합니다. 사이트 URL 의 형식이나 어떤 데이터를 사이트에 표시할 것인지 등, 여러 동작을 조정할 수 있습니다.
+[`Jekyll`]은 정적 사이트 생성기입니다. 마크업 언어로 작성된 텍스트를 레이아웃을 사용해 정적 웹사이트를 생성합니다. 사이트 URL 의 형식이나 어떤 데이터를 사이트에 표시할 것인지 등, 여러 동작을 조정할 수 있습니다.
 
 다양한 테마가 있지만 디자인이 깔끔하며, 이용자와 정보가 많은 [Chirpy]를 선택했습니다.
 
@@ -125,18 +125,13 @@ bundle exec jekyll serve
 
 
 ## References
-1. [`Github: chirpy-starter`]
-2. [`Github: jekyll-theme-chirpy`]
-3. [`chirpy.cotes.page`]
-
-
-<br>
-
+* [`Github: chirpy-starter`]
+* [`Github: jekyll-theme-chirpy`]
+* [`Chirpy`]
 
 
 [`Github: chirpy-starter`]: https://github.com/cotes2020/chirpy-starter
 [`Github: jekyll-theme-chirpy`]: https://github.com/cotes2020/jekyll-theme-chirpy
-[`chirpy.cotes.page`]: https://chirpy.cotes.page/
 [`fork-theme`]: https://github.com/cotes2020/jekyll-theme-chirpy
 [`chirpy-stater`]: https://github.com/cotes2020/chirpy-starter
 [`Github Desktop`]: https://desktop.github.com/download/
