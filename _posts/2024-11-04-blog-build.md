@@ -104,7 +104,7 @@ avatar: '/assets/img/~'                  # sidebar profile image
 cd C:\username.github.io # 블로그 경로로 이동합니다.
 bundle
 ```  
-설치가 끝났다면 실행해봅시다.
+bundle 설치가 끝났다면 서버를 실행합니다.
 ```shell
 bundle exec jekyll serve
 ```
