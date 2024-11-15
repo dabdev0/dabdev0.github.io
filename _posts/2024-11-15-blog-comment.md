@@ -94,7 +94,7 @@ comments:
 
 
 ### 4. Github Blog Giscus 확인
-![Comment](https://github.com/dabdev0/dabdev0.github.io/blob/main/assets/img/Comment.PNG?raw=true))
+![Comment](https://github.com/dabdev0/dabdev0.github.io/blob/main/assets/img/Comment.PNG?raw=true)
 
 
 [`Giscus App`]: https://github.com/apps/giscus
