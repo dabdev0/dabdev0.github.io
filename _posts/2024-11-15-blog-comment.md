@@ -25,7 +25,7 @@ image:
 
 ### 1. Giscus App을 리포지토리에 설치
 [`Giscus App`]을 블로그 리포지토리에 설치합니다.
-![GiscusApp](/assets/img/GiscusApp.PNG)
+![GiscusApp](https://github.com/dabdev0/dabdev0.github.io/blob/main/assets/img/GiscusApp.PNG?raw=true)
 
 
 <br>
@@ -33,10 +33,10 @@ image:
 
 ### 2. Github Discussion을 활성화
 `Giscus App`을 설치한 리포지토리에서 **Settings**를 클릭하고 **Features** 영역에서 **Discussions**을 활성화합니다.  
-![GiscusApp](/assets/img/Discussions.PNG)  
+![Discussions](https://github.com/dabdev0/dabdev0.github.io/blob/main/assets/img/Discussions.PNG?raw=true)  
 
 리포지토리에 **Discussions** 탭이 활성화된 것을 확인할 수 있습니다. 
-![GiscusApp](/assets/img/DiscussionsTab.PNG)
+![DiscussionsTab](https://github.com/dabdev0/dabdev0.github.io/blob/main/assets/img/DiscussionsTab.PNG?raw=true)
 
 
 <br>
@@ -92,8 +92,10 @@ comments:
 
 <br>
 
+
 ### 4. Github Blog Giscus 확인
-![Comment](/assets/img/Comment.PNG)
+![Comment](https://github.com/dabdev0/dabdev0.github.io/blob/main/assets/img/Comment.PNG?raw=true))
+
 
 [`Giscus App`]: https://github.com/apps/giscus
 [`Giscus`]: https://giscus.app/ko
